@@ -98,7 +98,7 @@ analytics:
 # Site Author
 author:
   name             : "Zigfried Hampel-Arias"
-  avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Astrophysicist, GPU-burner, Outdoorsman."
   location         : "Brussels, BE"
   email            : "zhampel@wipac.wisc.edu"
