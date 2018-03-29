@@ -2,7 +2,23 @@
 layout: archive
 ---
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<h1>About me</h1>
+<section class="page__content" itemprop="text">
+<!-- <section class="page__content" itemprop="text" style="font-size:$type-size-6"> -->
+    <p>
+        I'm Zig Hampel. I'm a physics Ph.D., data analyst, and programmer with an interest in machine learning. 
+        I have several years of experience coding in Python, C/C++, and OpenCL. 
+        In particular, my experience is predominantly in the scientific computing and Python data science space.
+
+    </p>
+    <p>
+        In my free time I like spending time outdoors whether hiking, skiing, or kayaking, and taking pictures along the way!
+    </p>
+</section>
+<br />
+
+<h2 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h2>
+
 
 {% for post in paginator.posts %}
   {% include archive-single.html %}
