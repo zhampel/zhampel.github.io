@@ -55,9 +55,9 @@ Thesis Title: <b>Spurious Events in the Endcap Muon System of the CMS Detector</
 
 ## Languages Spoken
 Native:
-English, Espai&ntildel<br>
+English, Espai&ntildel;<br>
 Working Proficiency:
-Fran&ccedilais
+Fran&ccedil;ais
 
 ## Honors and Awards
 BAEF Postdoctoral Fellowship
