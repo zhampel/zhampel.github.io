@@ -9,6 +9,8 @@ scope:
     type: pages
 toc: true
 toc_label: "R&eacute;sum&eacute;"
+header:
+  overlay_image: /assets/images/sunset-gsl.jpg
 ---
 
 ## Technical Skills
@@ -42,20 +44,20 @@ toc_label: "R&eacute;sum&eacute;"
 
 ## Education
 PhD, Physics<br>
-University of Wisconsin&mdash;Madison
-Thesis Advisor: Prof. Stefan Westerhoff
-Thesis Title: <b>Cosmic Ray Observations at the TeV Scale with the HAWC Observatory</b>
+University of Wisconsin&mdash;Madison<br>
+Thesis Advisor: Prof. Stefan Westerhoff<br>
+Thesis Title: <b>Cosmic Ray Observations at the TeV Scale with the HAWC Observatory</b><br>
 Degree Title: Computational Particle Astrophysics
 
 BS, Chemical Physics<br>
-Rice University
-Thesis Advisor: Prof. B. Paul Padley
+Rice University<br>
+Thesis Advisor: Prof. B. Paul Padley<br>
 Thesis Title: <b>Spurious Events in the Endcap Muon System of the CMS Detector</b>
 
 
 ## Languages Spoken
 Native:
-English, Espai&ntildel;<br>
+English, Espa&ntilde;l<br>
 Working Proficiency:
 Fran&ccedil;ais
 

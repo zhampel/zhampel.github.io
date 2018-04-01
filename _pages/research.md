@@ -4,6 +4,8 @@ title: Research
 permalink: /research/
 author_profile: true
 type: pages
+header:
+  overlay_image: /assets/images/sunset-gsl.jpg
 ---
 
 ## Cosmic-Ray Energy Spectrum
