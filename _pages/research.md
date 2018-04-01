@@ -20,6 +20,6 @@ header:
  applying unfolding (deconvolution) techniques to data collected with the IceCube South Pole Neutrino Observatory to study the composition of cosmic-rays at high energies. 
 A better  understanding of the cosmic-ray energy spectrum can help answer fundamental questions related to the origin of cosmic rays.
 
-<img align="" src="http://latex.codecogs.com/svg.latex?N_{\\text{side}} = 256\" style="border: 0;"/></img>
+<img align="" src="http://latex.codecogs.com/svg.latex?N_{\text{side}} = 256\" style="border: 0;"/img>
 
 {: .text-left}
