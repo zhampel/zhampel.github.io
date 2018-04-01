@@ -26,7 +26,6 @@ A better  understanding of the cosmic-ray energy spectrum can help answer fundam
 
 //Latex php string variable
 function latexString($eq_string,$align=""){
-  //$ls="<img src=\"http://latex.codecogs.com/svg.latex?$eq_string\" style=\"border: 0;\"/>";
   $ls="<img align=\"$align\" src=\"http://latex.codecogs.com/svg.latex?$eq_string\" style=\"border: 0;\"/>";
   return $ls;
 }
@@ -35,8 +34,6 @@ function latexString($eq_string,$align=""){
 function printLatex($eq_string){
   $LS = latexString($eq_string);
   echo("$LS");
-//echo("<img src=\"http://latex.codecogs.com/svg.latex?$eq_string\" style=\"border: 0;\"/>");
-//echo("&nbsp <img src=\"http://latex.codecogs.com/svg.latex?$eq_string\" style=\"border: 0;\"/>");
 }
 
 //Nice formating for html printing of latex equations
