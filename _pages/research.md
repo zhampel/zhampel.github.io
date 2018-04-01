@@ -21,4 +21,14 @@ header:
 A better  understanding of the cosmic-ray energy spectrum can help answer fundamental questions related to the origin of cosmic rays.
 <img align="" src="http://latex.codecogs.com/svg.latex?N_{\text{side}} = 256" style="border: 0;"/>
 
+<?php 
+
+//Latex php string variable
+function latexString($eq_string,$align=""){
+    $ls="<img align=\"$align\" src=\"http://latex.codecogs.com/svg.latex?$eq_string\" style=\"border: 0;\"/>";
+      return $ls;
+      }
+?>
+
+
 {: .text-left}
