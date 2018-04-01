@@ -19,11 +19,6 @@ header:
 (e.g. protons, alpha particles, iron nuclei, etc.) originating from outer space. I focus on
  applying unfolding (deconvolution) techniques to data collected with the IceCube South Pole Neutrino Observatory to study the composition of cosmic-rays at high energies. 
 A better  understanding of the cosmic-ray energy spectrum can help answer fundamental questions related to the origin of cosmic rays.
-<img align="" src="http://latex.codecogs.com/svg.latex?N_{\text{side}} = 256" style="border: 0;"/>
 
-$
-R_{\mu \nu} - {1 \over 2}g_{\mu \nu}\,R + g_{\mu \nu} \Lambda
-= {8 \pi G \over c^4} T_{\mu \nu}
-$
 
 {: .text-left}
