@@ -49,7 +49,8 @@ Degree Title: Computational Particle Astrophysics
 
 BS, Chemical Physics<br>
 Rice University
-Thesis Title: <b>Characterization of Background Events with the Endcap Muon Chamber System of the CMS Detector</b>
+Thesis Advisor: Prof. B. Paul Padley
+Thesis Title: <b>Spurious Events in the Endcap Muon System of the CMS Detector</b>
 
 
 ## Languages Spoken
