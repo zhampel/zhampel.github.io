@@ -4,6 +4,11 @@ title: Research
 permalink: /research/
 author_profile: true
 type: pages
+scope:
+    path: ""
+    type: pages
+toc: true
+toc_label: "Research"
 header:
   overlay_image: /assets/images/sunset-gsl.jpg
 ---
