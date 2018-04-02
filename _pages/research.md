@@ -13,12 +13,23 @@ header:
   overlay_image: /assets/images/sunset-gsl.jpg
 ---
 
-## Cosmic-Ray Energy Spectrum
+## Cosmic-Rays with HAWC
 
-![image-left](/assets/images/bdt-small.png){: .align-right} Cosmic rays are charged particles
-(e.g. protons, alpha particles, iron nuclei, etc.) originating from outer space. I focus on
- applying unfolding (deconvolution) techniques to data collected with the IceCube South Pole Neutrino Observatory to study the composition of cosmic-rays at high energies. 
-A better  understanding of the cosmic-ray energy spectrum can help answer fundamental questions related to the origin of cosmic rays.
+Cosmic rays are charged particles that are born in the some most violent environments in our Universe. 
+The cosmic rays that arrive at Earth are primarly composed of protons and alpha particles, with elements up to iron nuclei 
+(and some heavier elements in trace amounts) in the mix.
+By studying the energy spectrum, arrival distribution, and composition of these particles, we can learn more about
+the origins of cosmic rays and the environments in which they travel to reach us.
+Ultimately, it is by understanding these smallest consituents of matter that we can get a better picture of the largest structures in our Universe.
+
+My PhD research focused on making cosmic rays measurements with the [HAWC Observatory](https://www.hawc-observatory.org/),
+an experiment located near Puebla, Mexico on the slopes of Pico de Orizaba (pictured below).
+I applied unfolding (deconvolution) techniques to measure the spectrum (publised in [PRD](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.122001)), 
+collaborated in measuring the large and small scale anisotropy, 
+and used the Earth''s magnetic field to validate our techniques via observation of the cosmic-ray Moon shadow.
+
+![image-center](/assets/images/HAWC_Photo.jpg){: .align-right}
+(Photo credit: Zigfried Hampel-Arias)
 
 
 {: .text-left}
