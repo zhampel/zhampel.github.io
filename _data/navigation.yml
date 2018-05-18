@@ -10,7 +10,7 @@ main:
     url: /resume/
   - title: "Research"
     url: /research/
+  - title: "Software"
+    url: /software/
   - title: "Blog"
     url: /blog-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/

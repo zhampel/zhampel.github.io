@@ -75,7 +75,9 @@
   p,
   li,
   dl {
-    font-size: 1em;
+    font-size: $global_font-size;
+    // font-size: 16px;
+    // font-size: 1em;
   }
 
   /* paragraph indents */
@@ -137,6 +139,7 @@
     position: relative;
     margin-bottom: 2em;
     padding: 3em 0;
+    // padding: 8em 0;
     @include clearfix;
     background-size: cover;
     background-repeat: no-repeat;
@@ -175,7 +178,9 @@
       font-size: $type-size-2;
 
       @include breakpoint($small) {
-        font-size: $type-size-1;
+        font-size: $type-size-3;
+        // Fontsize for page titles
+        // font-size: $type-size-1;
       }
     }
   }

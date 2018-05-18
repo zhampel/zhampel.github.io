@@ -11,6 +11,7 @@ toc: true
 toc_label: "R&eacute;sum&eacute;"
 header:
   overlay_image: /assets/images/sunset-gsl.jpg
+  caption: "&#169; Z. Hampel-Arias"
 ---
 
 ## Technical Skills
@@ -62,8 +63,24 @@ Thesis Title: <b>Spurious Events in the Endcap Muon System of the CMS Detector</
 English, Espa&ntilde;ol (Native)<br>
 Fran&ccedil;ais (Working Proficiency)
 
+
+## Selected Presentations
+
+"PyUnfold: the Python Package for Iterative Unfolding" <br>
+Talk at IIHE, ULB, Bruxelles, Belgium. <br>
+[Slides]
+
+"Overview of Semi-Supervised Classification with GCNs" <br>
+Invited talk at [ML6](http://ml6.eu/), Ghent, Belgium.<br>
+[Slides](https://zhampel.github.io/gcn-ssc-technical-overview/)
+
+"Introduction to Machine Learning Workshop"<br>
+Lecture & Keras Workshop at IIHE, ULB, Bruxelles, Belgium.<br>
+[Slides](https://zhampel.github.io/intro-ml-iihe/)
+
+
 ## Honors and Awards
-BAEF, and WBI Postdoctoral Fellowships
+BAEF and WBI Postdoctoral Fellowships
 
 NSF Graduate Research Fellowship
 

@@ -4,5 +4,13 @@
 
 @charset "utf-8";
 
+// Set text size for all pages
+$global_font_size: 16px;
+// Make all hyperlinks red
+$link-color: red;
+// Set width of avatar sidebar
+$right-sidebar-width: 250px !default;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
