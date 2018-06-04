@@ -28,8 +28,11 @@ $$
 Recently, a colleague James Bourbeau and I released a package written in Python called 
 [PyUnfold](https://jrbourbeau.github.io/pyunfold/index.html)
 that performs this deconvolution using a method widely used in experimental high-energy physics.
-The package is currently under review in the Journal of Open Source Software, the draft of which
-can be found [here](ihttps://joss.theoj.org/papers/7ce84a37ff74be06ef28f8ea9b8831e6).
+The package has been published in the Journal of Open Source Software: 
+[![DOI](http://joss.theoj.org/papers/10.21105/joss.00741/status.svg)](https://doi.org/10.21105/joss.00741),
+also available on [Zenodo](https://zenodo.org/record/1258211).
+
+
 
 
 ## Features
@@ -47,3 +50,12 @@ iterative deconvolution!
 
 I recently gave an introductory talk about PyUnfold at the IIHE at ULB/VUB in Brussels.
 The slides can be found [here](https://zhampel.github.io/intro-pyunfold-iihe/).
+
+
+## Success Stories
+PyUnfold has been successfully used in several contexts, including:
+- Cosmic-ray energy spectrum measurement made by the `HAWC observatory <https://www.hawc-observatory.org/>`_ [1]_.
+- Cosmic-ray composition analysis using the `IceCube South Pole Neutrino Observatory <https://icecube.wisc.edu/>`_.
+
+
+.. [1] Alfaro, R. and others. 2017. "All-particle cosmic ray energy spectrum measured by the HAWC experiment from 10 to 500 TeV." *Phys. Rev. D* 96 (12):122001. `<https://doi.org/10.1103/PhysRevD.96.122001>`_.
