@@ -54,8 +54,6 @@ The slides can be found [here](https://zhampel.github.io/intro-pyunfold-iihe/).
 
 ## Success Stories
 PyUnfold has been successfully used in several contexts, including:
-- Cosmic-ray energy spectrum measurement made by the `HAWC observatory <https://www.hawc-observatory.org/>`_ [1]_.
-- Cosmic-ray composition analysis using the `IceCube South Pole Neutrino Observatory <https://icecube.wisc.edu/>`_.
-
-
-.. [1] Alfaro, R. and others. 2017. "All-particle cosmic ray energy spectrum measured by the HAWC experiment from 10 to 500 TeV." *Phys. Rev. D* 96 (12):122001. `<https://doi.org/10.1103/PhysRevD.96.122001>`_.
+- Cosmic-ray [energy spectrum](https://doi.org/10.1103/PhysRevD.96.122001) measurement 
+made by the [HAWC Observatory](https://www.hawc-observatory.org/).
+- Cosmic-ray composition analysis using the [IceCube South Pole Neutrino Observatory](https://icecube.wisc.edu/).
