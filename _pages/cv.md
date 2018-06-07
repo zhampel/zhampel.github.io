@@ -68,7 +68,7 @@ Fran&ccedil;ais (Working Proficiency)
 
 "PyUnfold: the Python Package for Iterative Unfolding" <br>
 Talk at IIHE, ULB, Bruxelles, Belgium. <br>
-[Slides]
+[Slides](https://zhampel.github.io/intro-pyunfold-iihe/)
 
 "Overview of Semi-Supervised Classification with GCNs" <br>
 Invited talk at [ML6](http://ml6.eu/), Ghent, Belgium.<br>
