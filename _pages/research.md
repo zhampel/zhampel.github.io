@@ -119,6 +119,8 @@ has some advantages over other matrix inversion methods, for example in cases wh
 
 ### PyUnfold
 The code I designed for the HAWC cosmic ray measurement has been generalized for use beyond the HEP community 
-by myself and another astrophysicist, which is now packaged as [PyUnfold](https://jrbourbeau.github.io/pyunfold/index.html).
-We recently submitted the code project (with some uncertainty estimation updates from D'Agostini's original version)
-to [JOSS](https://joss.theoj.org/papers/7ce84a37ff74be06ef28f8ea9b8831e6) and is currently under review.
+by myself and another astrophysicist (with some uncertainty estimation updates from D'Agostini's original version),
+which is now packaged as [PyUnfold](https://jrbourbeau.github.io/pyunfold/index.html).
+The code project was recently accepted in the Journal of Open Source Software
+[![DOI](http://joss.theoj.org/papers/10.21105/joss.00741/status.svg)](https://doi.org/10.21105/joss.00741),
+also available on [Zenodo](https://zenodo.org/record/1258211).
