@@ -23,6 +23,6 @@ See my [GitHub profile](http://github.com/zhampel) for further details.
 ### PyUnfold
 
 Python package for performing statistical deconvolution.
-- J.O.S.S Publication [![DOI](http://joss.theoj.org/papers/10.21105/joss.00741/status.svg)](https://doi.org/10.21105/joss.00741)
 - [GitHub](https://github.com/zhampel/pyunfold)
 - [Documentation](https://jrbourbeau.github.io/pyunfold/index.html)
+- J.O.S.S Publication [![DOI](http://joss.theoj.org/papers/10.21105/joss.00741/status.svg)](https://doi.org/10.21105/joss.00741)
