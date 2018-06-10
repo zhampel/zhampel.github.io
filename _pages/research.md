@@ -118,9 +118,11 @@ This iterative unfolding procedure is widely-used in the high-energy physics com
 has some advantages over other matrix inversion methods, for example in cases where no inverse actually exists.
 
 ### PyUnfold
+![pyunfold-image](/assets/images/pyunfold.png){:height="20%" width="20%"}{: .align-right}
+{: .text-left}
 The code I designed for the HAWC cosmic ray measurement has been generalized for use beyond the HEP community 
-by myself and another astrophysicist (with some uncertainty estimation updates from D'Agostini's original version),
-which is now packaged as [PyUnfold](https://jrbourbeau.github.io/pyunfold/index.html).
-The code project was recently accepted in the Journal of Open Source Software
-[![DOI](http://joss.theoj.org/papers/10.21105/joss.00741/status.svg)](https://doi.org/10.21105/joss.00741),
+by myself and another astrophysicist (with some updates from D'Agostini's original version),
+and is now packaged as [PyUnfold](https://jrbourbeau.github.io/pyunfold/index.html).
+The project was recently accepted in the Journal of Open Source Software
+[![DOI](http://joss.theoj.org/papers/10.21105/joss.00741/status.svg)](https://doi.org/10.21105/joss.00741)
 also available on [Zenodo](https://zenodo.org/record/1258211).
