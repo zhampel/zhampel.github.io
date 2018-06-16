@@ -19,16 +19,16 @@ header:
     <p>I am experienced with:</p>
     <ul>
         <li>
-            <p>Data analysis in particular big data, statistics, deconvolution, modeling</p>
+            <p>Data analysis, in particular big data, statistics, deconvolution, modeling</p>
         </li>
         <li>
             <p>Python, C, C++ programming</p>
         </li>
         <li>
-            <p>Machine learning (scikit-learn, keras)</p>
+            <p>Machine learning (scikit-learn, Keras)</p>
         </li>
         <li>
-            <p>Scientific computing (numpy, scipy, pandas, PyOpenCL)</p>
+            <p>Scientific computing (NumPy, SciPy, Pandas, PyOpenCL)</p>
         </li>
         <li>
             <p>Distributed and parallel computing (SLURM, PBS, HTCondor)</p>
@@ -37,7 +37,7 @@ header:
             <p>Data visualization (matplotlib, PyOpenGL)</p>
         </li>
         <li>
-            <p>Version control systems (SVN, git)</p>
+            <p>Version control systems (SVN, Git)</p>
         </li>
         <li>
             <p>Public speaking, mentoring, and leadership roles</p>
