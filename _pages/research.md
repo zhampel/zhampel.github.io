@@ -67,6 +67,8 @@ protons interact with the geomagnetic field.
 In the video, some particles get stuck in the field, tracing out its shape as large arcs.
 Indeed, it's these low energy particles that cause the [aurorae](https://en.wikipedia.org/wiki/Aurora)!
 HAWC measures particles with much higher energy, but the same physics applies.
+The visualization was generated using my charged particle propagation tool found 
+[here](https://github.com/zhampel/cr-igrf-prop).
 
 {: .text-left}
 Image credit: [WIPAC](https://hawc.wipac.wisc.edu/hawc/science)

@@ -26,3 +26,9 @@ Python package for performing statistical deconvolution.
 - [GitHub](https://github.com/zhampel/pyunfold)
 - [Documentation](https://jrbourbeau.github.io/pyunfold/index.html)
 - J.O.S.S Publication [![DOI](http://joss.theoj.org/papers/10.21105/joss.00741/status.svg)](https://doi.org/10.21105/joss.00741)
+
+### Charged Particle Propagation Visualization
+
+Python tool for visualizing charged particle propagation in the Earth's magnetic field.
+- [GitHub](https://github.com/zhampel/cr-igrf-prop)
+- [Demonstration](https://www.youtube.com/watch?v=M-hRWb5rqL8&feature=youtu.be) on YouTube
