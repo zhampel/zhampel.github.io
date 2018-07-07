@@ -31,4 +31,4 @@ Python package for performing statistical deconvolution.
 
 Python tool for visualizing charged particle propagation in the Earth's magnetic field.
 - [GitHub](https://github.com/zhampel/cr-igrf-prop)
-- [Demonstration](https://www.youtube.com/watch?v=M-hRWb5rqL8&feature=youtu.be) on YouTube
+- [Demonstration](https://www.youtube.com/watch?v=0FDwW1mo2Vk&feature=youtu.be) on YouTube

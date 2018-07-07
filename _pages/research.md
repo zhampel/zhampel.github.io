@@ -62,13 +62,13 @@ of our methods using cosmic-rays blocked by the Moon, i.e. the Moon shadow.
 {: .text-left}
 Since the Earth's magnetic field bends cosmic-ray trajectories, the observed Moon shadow shifts 
 with energy, allowing us to verify our energy and angular estimates.
-This [cool animation](https://youtu.be/M-hRWb5rqL8) shows this energy-depenent bending as low-energy 
-protons interact with the geomagnetic field.
+This [cool animation](https://www.youtube.com/watch?v=0FDwW1mo2Vk&feature=youtu.be) shows this 
+energy-depenent bending as low-energy protons interact with the geomagnetic field.
 In the video, some particles get stuck in the field, tracing out its shape as large arcs.
 Indeed, it's these low energy particles that cause the [aurorae](https://en.wikipedia.org/wiki/Aurora)!
 HAWC measures particles with much higher energy, but the same physics applies.
 The visualization was generated using my charged particle propagation tool found 
-[here](https://github.com/zhampel/cr-igrf-prop).
+[here](https://github.com/zhampel/cr-geomag-prop).
 
 {: .text-left}
 Image credit: [WIPAC](https://hawc.wipac.wisc.edu/hawc/science)
