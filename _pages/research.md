@@ -62,7 +62,7 @@ of our methods using cosmic-rays blocked by the Moon, i.e. the Moon shadow.
 {: .text-left}
 Since the Earth's magnetic field bends cosmic-ray trajectories, the observed Moon shadow shifts 
 with energy, allowing us to verify our energy and angular estimates.
-This [cool animation](https://www.youtube.com/watch?v=0FDwW1mo2Vk&feature=youtu.be) shows this 
+This [cool animation](https://youtu.be/0FDwW1mo2Vk) shows this 
 energy-depenent bending as low-energy protons interact with the geomagnetic field.
 In the video, some particles get stuck in the field, tracing out its shape as large arcs.
 Indeed, it's these low energy particles that cause the [aurorae](https://en.wikipedia.org/wiki/Aurora)!
