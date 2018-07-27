@@ -24,19 +24,19 @@ See my [GitHub profile](http://github.com/zhampel) for further details.
 ### PyUnfold
 
 Python package for performing statistical deconvolution.
-- GitHub [repo](https://github.com/zhampel/pyunfold)
+- [GitHub](https://github.com/zhampel/pyunfold) repo
 - [Documentation](https://jrbourbeau.github.io/pyunfold/index.html)
 - J.O.S.S Publication [![DOI](http://joss.theoj.org/papers/10.21105/joss.00741/status.svg)](https://doi.org/10.21105/joss.00741)
 
 ### Charged Particle Propagation Visualization
 
 Python tool for visualizing charged particle propagation in the Earth's magnetic field.
-- GitHub [repo](https://github.com/zhampel/cr-igrf-prop)
+- [GitHub](https://github.com/zhampel/cr-igrf-prop) repo
 - Demonstrations using the [IGRF](https://youtu.be/0FDwW1mo2Vk) and [dipole](https://youtu.be/YA2j0FwJTsI) models
 
 
 ### Rotational Convolution Layer
 
 Implementation of a rotating convolutional kernel operation in TensorFlow.
-- GitHub [repo](https://github.com/zhampel/rot-inv-conv)
-- [Slides](http://bit.ly/zhampel-rot-inv-conv-slides)
+- [GitHub](https://github.com/zhampel/rot-inv-conv) repo
+- [Presentation](http://bit.ly/zhampel-rot-inv-conv-slides) slides
