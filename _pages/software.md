@@ -16,7 +16,7 @@ mathjax: true
 ---
 
 I am an active developer and maintainer of several projects in the Python data science community,
-as well as an editor for the Journal of Open Source Software ([JOSS](http://joss.theoj.org/)).
+as well as a reviewer for the Journal of Open Source Software ([JOSS](http://joss.theoj.org/)).
 See my [GitHub profile](http://github.com/zhampel) for further details.
 
 ## Maintainer
