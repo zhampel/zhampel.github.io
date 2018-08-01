@@ -19,13 +19,13 @@ header:
     <p>I am experienced with:</p>
     <ul>
         <li>
-            <p>Data analysis, in particular big data, statistics, deconvolution, modeling</p>
+            <p>Data analysis, in particular big data, statistics, deconvolution, modeling & simulation</p>
         </li>
         <li>
             <p>Python, C, C++ programming</p>
         </li>
         <li>
-            <p>Machine learning (scikit-learn, Keras)</p>
+            <p>Machine learning (scikit-learn, TensorFlow, Keras)</p>
         </li>
         <li>
             <p>Scientific computing (NumPy, SciPy, Pandas, PyOpenCL)</p>
