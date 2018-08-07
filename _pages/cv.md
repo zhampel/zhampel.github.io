@@ -12,6 +12,7 @@ toc_label: "R&eacute;sum&eacute;"
 header:
   overlay_image: /assets/images/sunset-gsl.jpg
   caption: "&#169; Z. Hampel-Arias"
+mathjax: true
 ---
 
 ## Technical Skills
@@ -87,3 +88,29 @@ NSF Graduate Research Fellowship
 Fulbright Research Fellowship
 
 MMUF Undergraduate Fellowship
+
+
+## Selected Publications
+
+Below is a list of the publications for which I am a major contributor.
+
+
+Observation of Anisotropy of TeV Cosmic Rays with Two Years of HAWC<br>
+Accepted to Astrophys. J. 7 August, 2018. [arXiv:1805.01847](https://arxiv.org/abs/1805.01847)
+
+PyUnfold: A Python Package for Iterative Unfolding<br>
+Journal of Open Source Software, **3**(26), 741 (2018). [arXiv:1806.03350](https://arxiv.org/abs/1806.03350)<br>
+.. image:: http://joss.theoj.org/papers/10.21105/joss.00741/status.svg
+    :target: https://doi.org/10.21105/joss.00741
+
+Constraining the \\(\bar{p}/p\\) Ratio in TeV Cosmic Rays with the Moon Shadow<br>
+Phys. Rev. D **97**, 102005 (2018). [arXiv:1802.08913](https://arxiv.org/abs/1802.08913)
+
+The All Particle Cosmic Ray Energy Spectrum Measured by the HAWC Experiment from 10 to 500 TeV<br>
+Phys. Rev. D **96**, 122001 (2017). (**Editor's Suggestion**) [arXiv:1710.00890](https://arxiv.org/abs/1710.00890)
+
+All-Particle and Light-Component Cosmic Ray Energy Spectrum Measured by the HAWC Experiment<br>
+PoS: Proceedings of the 35th ICRC (Busan), 2017. [arXiv:1801.05526](https://arxiv.org/abs/1801.05526)
+
+Towards a Measurement of the \\(e^{+}e^{-}\\) Flux Above 1 TeV with HAWC<br>
+PoS: Proceedings of the 34th ICRC (The Hague), 2015. [arXiv:1508.03466](https://arxiv.org/abs/1508.03466)
