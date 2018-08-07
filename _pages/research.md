@@ -128,3 +128,21 @@ and is now packaged as [PyUnfold](https://jrbourbeau.github.io/pyunfold/index.ht
 The project was recently published in the Journal of Open Source Software
 [![DOI](http://joss.theoj.org/papers/10.21105/joss.00741/status.svg)](https://doi.org/10.21105/joss.00741)
 also available on [Zenodo](https://zenodo.org/record/1258211).
+
+
+## Publications
+
+Below is a list of the publications for which I am a major contributor.
+
+
+Observation of Anisotropy of TeV Cosmic Rays with Two Years of HAWC
+
+PyUnfold: A Python Package for Iterative Unfolding
+
+Constraining the \\(\bar{p}/p\\) Ratio in TeV Cosmic Rays with the Moon Shadow
+
+The All Particle Cosmic Ray Energy Spectrum Measured by the HAWC Experiment from 10 to 500 TeV
+
+All-Particle and Light-Component Cosmic Ray Energy Spectrum Measured by the HAWC Experiment
+
+Towards a Measurement of the \\(e^{+}e^{-}\\) Flux Above 1 TeV with HAWC
