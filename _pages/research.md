@@ -85,8 +85,8 @@ Whereas the energy spectrum provides clues about the nature of particle accelera
 distribution of cosmic rays gives us an idea of where these particles are coming from.
 In addition to probing cosmic ray source distributions, as with the Moon shadow, we also get a glimpse
 into the intervening magnetic field structure of interstellar space.
-In collaboration with my HAWC colleagues, we recently submitted our study of the cosmic ray anisotropy
-at TeV energies to the Astrophysical Journal, found [here](https://arxiv.org/abs/1805.01847) on the arXiv. 
+In collaboration with my HAWC colleagues, we recently published our study of the cosmic ray anisotropy
+at TeV energies in the Astrophysical Journal, found [here](https://arxiv.org/abs/1805.01847) on the arXiv. 
 
 
 
@@ -125,6 +125,6 @@ has some advantages over other matrix inversion methods, for example in cases wh
 The code I designed for the HAWC cosmic ray measurement has been generalized for use beyond the HEP community 
 by myself and another astrophysicist (with some updates from D'Agostini's original version),
 and is now packaged as [PyUnfold](https://jrbourbeau.github.io/pyunfold/index.html).
-The project was recently accepted in the Journal of Open Source Software
+The project was recently published in the Journal of Open Source Software
 [![DOI](http://joss.theoj.org/papers/10.21105/joss.00741/status.svg)](https://doi.org/10.21105/joss.00741)
 also available on [Zenodo](https://zenodo.org/record/1258211).
