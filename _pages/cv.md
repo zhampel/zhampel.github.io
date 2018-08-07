@@ -100,8 +100,6 @@ Accepted to Astrophys. J. 7 August, 2018. [arXiv:1805.01847](https://arxiv.org/a
 
 PyUnfold: A Python Package for Iterative Unfolding<br>
 Journal of Open Source Software, **3**(26), 741 (2018). [arXiv:1806.03350](https://arxiv.org/abs/1806.03350)<br>
-.. image:: http://joss.theoj.org/papers/10.21105/joss.00741/status.svg
-    :target: https://doi.org/10.21105/joss.00741
 
 Constraining the \\(\bar{p}/p\\) Ratio in TeV Cosmic Rays with the Moon Shadow<br>
 Phys. Rev. D **97**, 102005 (2018). [arXiv:1802.08913](https://arxiv.org/abs/1802.08913)
