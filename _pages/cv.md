@@ -85,7 +85,10 @@ BAEF and WBI Postdoctoral Fellowships
 
 NSF Graduate Research Fellowship
 
-Fulbright Research Fellowship
+Fulbright Research Fellowship<br>
+See my
+[blogpost](https://blog.fulbrightonline.org/expecting-the-unexpected-cosmic-ray-physics-in-argentina-by-zigfried-hampel-arias-2009-2010-argentina/#more-2380) 
+regarding my Fulbright research experience.
 
 MMUF Undergraduate Fellowship
 
@@ -96,10 +99,10 @@ Below is a list of the publications for which I am a major contributor.
 
 
 Observation of Anisotropy of TeV Cosmic Rays with Two Years of HAWC<br>
-Accepted to Astrophys. J. 7 August, 2018. [arXiv:1805.01847](https://arxiv.org/abs/1805.01847)
+Accepted to Astrophys. J. 6 August, 2018. [arXiv:1805.01847](https://arxiv.org/abs/1805.01847)
 
 PyUnfold: A Python Package for Iterative Unfolding<br>
-Journal of Open Source Software, **3**(26), 741 (2018). [arXiv:1806.03350](https://arxiv.org/abs/1806.03350)<br>
+Journal of Open Source Software **3**(26), 741 (2018). [arXiv:1806.03350](https://arxiv.org/abs/1806.03350)<br>
 
 Constraining the \\(\bar{p}/p\\) Ratio in TeV Cosmic Rays with the Moon Shadow<br>
 Phys. Rev. D **97**, 102005 (2018). [arXiv:1802.08913](https://arxiv.org/abs/1802.08913)
