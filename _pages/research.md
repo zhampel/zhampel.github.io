@@ -86,7 +86,8 @@ distribution of cosmic rays gives us an idea of where these particles are coming
 In addition to probing cosmic ray source distributions, as with the Moon shadow, we also get a glimpse
 into the intervening magnetic field structure of interstellar space.
 In collaboration with my HAWC colleagues, we recently published our study of the cosmic ray anisotropy
-at TeV energies in the Astrophysical Journal, found [here](https://arxiv.org/abs/1805.01847) on the arXiv. 
+at TeV energies in [The Astrophysical Journal](https://doi.org/10.3847/1538-4357/aad90c),
+found [here](https://arxiv.org/abs/1805.01847) on the arXiv. 
 
 
 

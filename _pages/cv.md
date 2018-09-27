@@ -99,7 +99,7 @@ Below is a list of the publications for which I am a major contributor.
 
 
 Observation of Anisotropy of TeV Cosmic Rays with Two Years of HAWC<br>
-Accepted to Astrophys. J. 6 August, 2018. [arXiv:1805.01847](https://arxiv.org/abs/1805.01847)
+Astrophys. J. **865**, 57 (2018). [arXiv:1805.01847](https://arxiv.org/abs/1805.01847)
 
 PyUnfold: A Python Package for Iterative Unfolding<br>
 Journal of Open Source Software **3**(26), 741 (2018). [arXiv:1806.03350](https://arxiv.org/abs/1806.03350)<br>
