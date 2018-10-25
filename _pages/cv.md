@@ -99,7 +99,8 @@ Below is a list of the publications for which I am a major contributor.
 
 
 Observation of Anisotropy of TeV Cosmic Rays with Two Years of HAWC<br>
-Astrophys. J. **865**, 57 (2018). [arXiv:1805.01847](https://arxiv.org/abs/1805.01847)
+Astrophys. J. **865**, 57 (2018). [arXiv:1805.01847](https://arxiv.org/abs/1805.01847)<br>
+Official [press release](https://wipac.wisc.edu/news/article/cosmic-ray-anisotropy-two-years-hawc)
 
 PyUnfold: A Python Package for Iterative Unfolding<br>
 Journal of Open Source Software **3**(26), 741 (2018). [arXiv:1806.03350](https://arxiv.org/abs/1806.03350)<br>
@@ -109,6 +110,7 @@ Phys. Rev. D **97**, 102005 (2018). [arXiv:1802.08913](https://arxiv.org/abs/180
 
 The All Particle Cosmic Ray Energy Spectrum Measured by the HAWC Experiment from 10 to 500 TeV<br>
 Phys. Rev. D **96**, 122001 (2017). (**Editor's Suggestion**) [arXiv:1710.00890](https://arxiv.org/abs/1710.00890)
+Official [press release](https://wipac.wisc.edu/news/article/cosmicray-spectrum-hawc)
 
 All-Particle and Light-Component Cosmic Ray Energy Spectrum Measured by the HAWC Experiment<br>
 PoS: Proceedings of the 35th ICRC (Busan), 2017. [arXiv:1801.05526](https://arxiv.org/abs/1801.05526)
