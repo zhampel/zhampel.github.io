@@ -109,7 +109,7 @@ Constraining the \\(\bar{p}/p\\) Ratio in TeV Cosmic Rays with the Moon Shadow<b
 Phys. Rev. D **97**, 102005 (2018). [arXiv:1802.08913](https://arxiv.org/abs/1802.08913)
 
 The All Particle Cosmic Ray Energy Spectrum Measured by the HAWC Experiment from 10 to 500 TeV<br>
-Phys. Rev. D **96**, 122001 (2017). (**Editor's Suggestion**) [arXiv:1710.00890](https://arxiv.org/abs/1710.00890)
+Phys. Rev. D **96**, 122001 (2017). (**Editor's Suggestion**)[arXiv:1710.00890](https://arxiv.org/abs/1710.00890)<br>
 Official [press release](https://wipac.wisc.edu/news/article/cosmicray-spectrum-hawc)
 
 All-Particle and Light-Component Cosmic Ray Energy Spectrum Measured by the HAWC Experiment<br>
