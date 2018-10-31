@@ -24,7 +24,7 @@ See my [GitHub profile](http://github.com/zhampel) for further details.
 
 ### CypherCat
 Python package for security in machine learning applications, specifically model attacks and defenses.
-- [GitHub](https://github.com/Lab41/cyphercat)
+- [GitHub](https://github.com/Lab41/cyphercat) repo
 - Documentation forthcoming.
 
 ### PyUnfold
