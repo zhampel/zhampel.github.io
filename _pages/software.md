@@ -22,6 +22,11 @@ See my [GitHub profile](http://github.com/zhampel) for further details.
 
 ## Maintainer
 
+### CypherCat
+Python package for security in machine learning applications, specifically model attacks and defenses.
+- [GitHub](https://github.com/Lab41/cyphercat)
+- Documentation forthcoming.
+
 ### PyUnfold
 
 Python package for performing statistical deconvolution.
