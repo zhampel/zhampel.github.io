@@ -15,7 +15,15 @@ header:
 mathjax: true
 ---
 
+## Links
+
+The following links host my updated 
+[Resume](/assets/pdfs/Zig_Hampel_Arias_Resume.pdf)
+and
+[CV](/assets/pdfs/Zig_Hampel_Arias_CV.pdf).
+
 ## Technical Skills
+
 <div>
     <p>I am experienced with:</p>
     <ul>
@@ -63,6 +71,7 @@ Thesis Title: <b>Spurious Events in the Endcap Muon System of the CMS Detector</
 ## Languages Spoken
 English, Espa&ntilde;ol (Native)<br>
 Fran&ccedil;ais (Working Proficiency)
+Ελληνικα (ενα λιγο, i.e. basic)
 
 
 ## Selected Presentations
