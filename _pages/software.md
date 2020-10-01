@@ -22,6 +22,12 @@ See my [GitHub profile](http://github.com/zhampel) for further details.
 
 ## Maintainer
 
+### COVID Diagnostic Accuracy Tool
+Dash App to support health professionals calculate and visualize diagnostic testing accuracy and associated uncertainties.
+- [GitHub](https://github.com/BNext-IQT/covid-test-db) repo
+- [Blog-post](https://medium.com/@abrennen/2e42ee4f610e) documenting release of Dash App
+- Joint [Webinar](https://go.plotly.com/dash-iqt) with Plotly about the importance of communication between data scientists and relevant domain experts
+
 ### CypherCat
 Python package for security in machine learning applications, specifically model attacks and defenses.
 - [GitHub](https://github.com/Lab41/cyphercat) repo
