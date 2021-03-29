@@ -34,19 +34,19 @@ and
             <p>Python, C, C++ programming</p>
         </li>
         <li>
-            <p>Machine learning (scikit-learn, TensorFlow, Keras)</p>
+            <p>Machine learning (PyTorch, scikit-learn, TensorFlow, Keras)</p>
         </li>
         <li>
             <p>Scientific computing (NumPy, SciPy, Pandas, PyOpenCL)</p>
         </li>
         <li>
-            <p>Distributed and parallel computing (SLURM, PBS, HTCondor)</p>
+            <p>Distributed and parallel computing (AWS, SLURM, PBS, HTCondor)</p>
         </li>
         <li>
             <p>Data visualization (matplotlib, PyOpenGL)</p>
         </li>
         <li>
-            <p>Version control systems (SVN, Git)</p>
+            <p>Version control systems (Git, SVN)</p>
         </li>
         <li>
             <p>Public speaking, mentoring, and leadership roles</p>
@@ -70,7 +70,7 @@ Thesis Title: <b>Spurious Events in the Endcap Muon System of the CMS Detector</
 
 ## Languages Spoken
 English, Espa&ntilde;ol (Native)<br>
-Fran&ccedil;ais (Working Proficiency)
+Fran&ccedil;ais (Working Proficiency),<br>
 Ελληνικα (ενα λιγο, i.e. basic)
 
 
@@ -106,6 +106,8 @@ MMUF Undergraduate Fellowship
 
 Below is a list of the publications for which I am a major contributor.
 
+Cosmic Ray Observations at the TeV Scale with the HAWC Observatory<br>
+I.e. my PhD [thesis](https://www.hawc-observatory.org/publications/docs/HampelThesis.pdf).
 
 Observation of Anisotropy of TeV Cosmic Rays with Two Years of HAWC<br>
 Astrophys. J. **865**, 57 (2018). [arXiv:1805.01847](https://arxiv.org/abs/1805.01847)<br>
