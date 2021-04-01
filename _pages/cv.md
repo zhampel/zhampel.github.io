@@ -74,6 +74,17 @@ Fran&ccedil;ais (Working Proficiency),<br>
 Ελληνικα (ενα λιγο, i.e. basic)
 
 
+## Selected Articles
+"What AI Can and Cannot Do for the Intelligence Community" <br>
+*Defense One*, Defense One, 5 Jan., 2021, [Article link](https://www.defenseone.com/ideas/2021/01/what-ai-can-and-cannot-do-intelligence-community/171195/)
+
+"Why IQT made the COVID-19 Diagnostic Accuracy Dash App."<br>
+*Modern Data*, Modern.Data, 27 August, 2020, [Article link](https://moderndata.plotly.com/why-iqt-made-the-covid-19-diagnostic-accuracy-dash-app/)
+
+"Learning to Run a Power Network Challenge."<br>
+*Gab41*, IQT Labs, 4 May, 2020, [Article link](https://gab41.lab41.org/learning-to-run-a-power-network-challenge-c38af2166c43)
+
+
 ## Selected Presentations
 
 "PyUnfold: the Python Package for Iterative Unfolding" <br>
