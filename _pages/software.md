@@ -16,11 +16,22 @@ mathjax: true
 ---
 
 I am an active developer and maintainer of several projects in the Python data science community,
-as well as a reviewer for the Journal of Open Source Software ([JOSS](http://joss.theoj.org/)).
+as well as a reviewer for the Journal of Open Source Software ([JOSS](http://joss.theoj.org/)),
+NeurIPS (via [LatinXinAI](https://www.latinxinai.org/) membership) and [CSET](https://cset.georgetown.edu/).
 
 See my [GitHub profile](http://github.com/zhampel) for further details.
 
 ## Maintainer
+
+### FakeFinder DeepFake Toolkit
+FakeFinder is a modular framework for evaluating deepfake detection models, including a web app and API.
+- [GitHub](https://github.com/IQTLabs/FakeFinder) repo
+- [Blog-post]() under review
+
+### BirdsEye - RL on RF
+BirdsEye is a modular framework for evaluating the efficacy of tracking radio frequency signals using reinforcement learning methods.
+- [GitHub](https://github.com/IQTLabs/BirdsEye) repo (under internal review for release)
+- [Publication]() presented at [RoSE 2021](https://rose-workshops.github.io/rose2021/). Publication to be released.
 
 ### COVID Diagnostic Accuracy Tool
 Dash App to support health professionals calculate and visualize diagnostic testing accuracy and associated uncertainties.
@@ -33,10 +44,16 @@ Python package for security in machine learning applications, specifically model
 - [GitHub](https://github.com/Lab41/cyphercat) repo
 - Documentation forthcoming.
 
+### ClusterGAN
+PyTorch implementation of ClusterGAN
+- [GitHub](https://github.com/zhampel/clusterGAN) repo
+- [PyTorch-GAN)(https://github.com/eriklindernoren/PyTorch-GAN#cluster-gan) contribution
+
 ### PyUnfold
 
 Python package for performing statistical deconvolution.
 - [GitHub](https://github.com/zhampel/pyunfold) repo
+- [PyPI](https://pypi.org/project/PyUnfold/) package
 - [Documentation](https://jrbourbeau.github.io/pyunfold/index.html)
 - J.O.S.S Publication [![DOI](http://joss.theoj.org/papers/10.21105/joss.00741/status.svg)](https://doi.org/10.21105/joss.00741)
 
