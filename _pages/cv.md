@@ -75,6 +75,12 @@ Fran&ccedil;ais (Working Proficiency),<br>
 
 
 ## Selected Articles
+"DeepFake Detection Challenge Part II" <br>
+*IQT*, In-Q-Tel, 7 July, 2021, [Article link](https://www.iqt.org/deepfake-detection-challenge-pt-ii/)
+
+"DeepFake Detection Challenge" <br>
+*IQT*, In-Q-Tel, 21 June, 2021, [Article link](https://www.iqt.org/deepfake-detection-challenge/)
+
 "What AI Can and Cannot Do for the Intelligence Community" <br>
 *Defense One*, Defense One, 5 Jan., 2021, [Article link](https://www.defenseone.com/ideas/2021/01/what-ai-can-and-cannot-do-intelligence-community/171195/)
 
@@ -116,6 +122,13 @@ MMUF Undergraduate Fellowship
 ## Selected Publications
 
 Below is a list of the publications for which I am a major contributor.
+
+Multimodal Approach for DeepFake Detection
+49th Annual IEEE AIPR 2020. Proceedings [not yet available](https://www.aipr-workshop.org/past-conference-information).
+Conference [booklet](https://www.aipr-workshop.org/images/2020/AIPR_Program_Booklet_2020.pdf)
+
+L2RPN: Learning to Run a Power Network in a Sustainable World<br>
+NeurIPS 2020 White Paper. [ChaLearn](https://drive.google.com/file/d/1--OxWiZzaf2nlHETic2ghmozZVn5TNSM/view)
 
 Cosmic Ray Observations at the TeV Scale with the HAWC Observatory<br>
 I.e. my PhD [thesis](https://www.hawc-observatory.org/publications/docs/HampelThesis.pdf).
