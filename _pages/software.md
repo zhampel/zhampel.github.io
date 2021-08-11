@@ -47,7 +47,7 @@ Python package for security in machine learning applications, specifically model
 ### ClusterGAN
 PyTorch implementation of ClusterGAN
 - [GitHub](https://github.com/zhampel/clusterGAN) repo
-- [PyTorch-GAN)(https://github.com/eriklindernoren/PyTorch-GAN#cluster-gan) contribution
+- [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN#cluster-gan) contribution
 
 ### PyUnfold
 
