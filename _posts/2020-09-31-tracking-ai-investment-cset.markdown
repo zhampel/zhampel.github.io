@@ -15,8 +15,8 @@ these change over time.
 
 The paper is primarily for policymakers, shining a light on global equity-only AI investments and focusing on privately traded companies.
 Some of the key findings from their study are:
-- National security interests attract little private cash flow
 - Over the last six years, the USA is the top investor in AI
+- US national security interests attract little private cash flow
 - China experienced an AI boom-bust cycle, and Chinese investors play a minor role outside of China
 - Private AI companies focus primarily on transport, business and general purpose AI applications
 
