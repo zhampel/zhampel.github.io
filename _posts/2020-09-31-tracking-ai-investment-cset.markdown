@@ -13,7 +13,7 @@ which means that while USG can and does harness these technologies, so can other
 Thus, the folks at CSET set out to identify where commercial AI innovation is taking place, who funds it, what problems they are solving and how
 these change over time.
 
-The paper is primarily for policymakers, shining a lens on global equity-only AI investments and focusing on privately traded companies.
+The paper is primarily for policymakers, shining a light on global equity-only AI investments and focusing on privately traded companies.
 Some of the key findings from their study are:
 - National security interests attract little private cash flow
 - Over the last six years, the USA is the top investor in AI
