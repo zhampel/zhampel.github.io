@@ -34,16 +34,16 @@ and
             <p>Python, C, C++ programming</p>
         </li>
         <li>
-            <p>Machine learning (PyTorch, scikit-learn, TensorFlow, Keras)</p>
+            <p>Machine learning (PyTorch, scikit-learn, TensorFlow)</p>
         </li>
         <li>
-            <p>Scientific computing (NumPy, SciPy, Pandas, PyOpenCL)</p>
+            <p>Scientific computing (NumPy, SciPy, pandas, PyOpenCL)</p>
         </li>
         <li>
             <p>Distributed and parallel computing (AWS, SLURM, PBS, HTCondor)</p>
         </li>
         <li>
-            <p>Data visualization (matplotlib, PyOpenGL)</p>
+            <p>Data visualization (matplotlib, Plotly Dash, PyOpenGL)</p>
         </li>
         <li>
             <p>Version control systems (Git, SVN)</p>
