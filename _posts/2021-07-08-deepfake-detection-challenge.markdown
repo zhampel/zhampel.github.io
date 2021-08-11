@@ -3,8 +3,8 @@ title:  DeepFake Detection Challenge
 mathjax: true
 ---
 
-In two recently published blog posts, my colleague Michael Lomnitz and I discuss
-IQTLabs's work in FaceBook's DeepFake Detection Challenge ([DFDC](https://ai.facebook.com/datasets/dfdc/)).
+In two recently published blog posts, my colleague [Michael Lomnitz](https://www.linkedin.com/in/michael-r-lomnitz/)
+and I discuss IQTLabs's work in FaceBook's DeepFake Detection Challenge ([DFDC](https://ai.facebook.com/datasets/dfdc/)).
 
 In the [first post](https://www.iqt.org/deepfake-detection-challenge/), we outline the deepfake problem,
 the crowd-sourcing approach of the challenge itself, and set the stage for results.
