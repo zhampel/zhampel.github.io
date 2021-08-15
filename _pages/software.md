@@ -39,13 +39,8 @@ Dash App to support health professionals calculate and visualize diagnostic test
 - [Blog-post](https://medium.com/@abrennen/2e42ee4f610e) documenting release of Dash App
 - Joint [Webinar](https://go.plotly.com/dash-iqt) with Plotly about the importance of communication between data scientists and relevant domain experts
 
-### CypherCat
-Python package for security in machine learning applications, specifically model attacks and defenses.
-- [GitHub](https://github.com/Lab41/cyphercat) repo
-- Documentation forthcoming.
-
 ### ClusterGAN
-PyTorch implementation of ClusterGAN
+PyTorch implementation of [ClusterGAN](https://arxiv.org/abs/1809.03627)
 - [GitHub](https://github.com/zhampel/clusterGAN) repo
 - [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN#cluster-gan) contribution
 
@@ -69,3 +64,9 @@ Python tool for visualizing charged particle propagation in the Earth's magnetic
 Implementation of a rotating convolutional kernel operation in TensorFlow.
 - [GitHub](https://github.com/zhampel/rot-inv-conv) repo
 - [Presentation](http://bit.ly/zhampel-rot-inv-conv-slides) slides
+
+### CypherCat
+Python package for security in machine learning applications, specifically model attacks and defenses.
+- [GitHub](https://github.com/Lab41/cyphercat) repo
+- Documentation forthcoming.
+
