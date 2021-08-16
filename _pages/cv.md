@@ -92,6 +92,13 @@ Fran&ccedil;ais (Working Proficiency),<br>
 
 
 ## Selected Presentations
+"Approaches for Multi-modal Synthetic Media Detection" <br>
+Invited talk at Applied Imagery Pattern Recognition, 49th IEEE AIPR 2020. <br>
+[Online info](https://www.aipr-workshop.org/19-22)
+
+"Operationalize COVID-19 Statistics with Dash - Featuring IQT's COVID-19 Diagnostic Accuary Tool" <br>
+Invited Webinar Talk for Plotly Dash. <br>
+[Webinar link](https://go.plotly.com/dash-iqt)
 
 "PyUnfold: the Python Package for Iterative Unfolding" <br>
 Talk at IIHE, ULB, Bruxelles, Belgium. <br>
