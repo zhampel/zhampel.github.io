@@ -13,5 +13,5 @@ using the dataset, the models trained for deepfake detection, and finally a comp
 
 Ultimately, the highest performing submissions were those that relied heavily on the choice of data augmentation methods
 rather than implementing the latest and greatest model architecture.
-And despite the small team, the IQTLabs solution landed in the top 25% of challenge submissions.
+And despite the small team, the IQTLabs solution landed in the top 28% of challenge submissions.
 Hope you enjoy!
