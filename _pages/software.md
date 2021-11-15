@@ -26,7 +26,7 @@ See my [GitHub profile](http://github.com/zhampel) for further details.
 ### FakeFinder DeepFake Toolkit
 FakeFinder is a modular framework for evaluating deepfake detection models, including a web app and API.
 - [GitHub](https://github.com/IQTLabs/FakeFinder) repo
-- Blog-post under review
+- [Blog-post](https://www.iqt.org/fakefinder-a-platform-for-deepfake-detection/) documenting public release of FakeFinder
 
 ### BirdsEye - RL on RF
 BirdsEye is a modular framework for evaluating the efficacy of tracking radio frequency signals using reinforcement learning methods.
