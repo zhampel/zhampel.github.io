@@ -134,7 +134,7 @@ Localizing Radio Frequency Targets Using Reinforcement Learning<br>
 2021 IEEE ROSE Conference, 2021. [IEEE Publication](https://ieeexplore.ieee.org/document/9611756)<br>
 
 Multimodal Approach for DeepFake Detection<br>
-49th Annual IEEE AIPR 2020. [IEEE Proceeding](https://ieeexplore.ieee.org/document/9425192).
+49th Annual IEEE AIPR 2020. [IEEE Proceeding](https://ieeexplore.ieee.org/document/9425192)
 
 L2RPN: Learning to Run a Power Network in a Sustainable World<br>
 NeurIPS 2020 White Paper. [ChaLearn](https://drive.google.com/file/d/1--OxWiZzaf2nlHETic2ghmozZVn5TNSM/view)
@@ -153,7 +153,7 @@ Constraining the \\(\bar{p}/p\\) Ratio in TeV Cosmic Rays with the Moon Shadow<b
 Phys. Rev. D **97**, 102005 (2018). [arXiv:1802.08913](https://arxiv.org/abs/1802.08913)
 
 The All Particle Cosmic Ray Energy Spectrum Measured by the HAWC Experiment from 10 to 500 TeV<br>
-Phys. Rev. D **96**, 122001 (2017). (**Editor's Suggestion**)[arXiv:1710.00890](https://arxiv.org/abs/1710.00890)<br>
+Phys. Rev. D **96**, 122001 (2017). (**Editor's Suggestion**) [arXiv:1710.00890](https://arxiv.org/abs/1710.00890)<br>
 Official [press release](https://wipac.wisc.edu/news/article/cosmicray-spectrum-hawc)
 
 All-Particle and Light-Component Cosmic Ray Energy Spectrum Measured by the HAWC Experiment<br>
