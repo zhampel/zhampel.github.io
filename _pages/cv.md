@@ -130,7 +130,10 @@ MMUF Undergraduate Fellowship
 
 Below is a list of the publications for which I am a major contributor.
 
-Multimodal Approach for DeepFake Detection
+Localizing Radio Frequency Targets Using Reinforcement Learning<br>
+2021 IEEE ROSE Conference, 2021. [DOI:10.1109/ROSE52750.2021.9611756](https://ieeexplore.ieee.org/document/9611756)<br>
+
+Multimodal Approach for DeepFake Detection<br>
 49th Annual IEEE AIPR 2020. Proceedings [not yet available](https://www.aipr-workshop.org/past-conference-information).
 Conference [booklet](https://www.aipr-workshop.org/images/2020/AIPR_Program_Booklet_2020.pdf)
 

@@ -31,7 +31,7 @@ FakeFinder is a modular framework for evaluating deepfake detection models, incl
 ### BirdsEye - RL on RF
 BirdsEye is a modular framework for evaluating the efficacy of tracking radio frequency signals using reinforcement learning methods.
 - [GitHub](https://github.com/IQTLabs/BirdsEye) repo (under internal review for public release)
-- Publication presented at [RoSE 2021](https://rose-workshops.github.io/rose2021/). Publication to be released.
+- [Publication](https://ieeexplore.ieee.org/document/9611756) presented at [RoSE 2021](https://rose-workshops.github.io/rose2021/).
 
 ### COVID Diagnostic Accuracy Tool
 Dash App to support health professionals calculate and visualize diagnostic testing accuracy and associated uncertainties.
