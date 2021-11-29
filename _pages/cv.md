@@ -134,8 +134,7 @@ Localizing Radio Frequency Targets Using Reinforcement Learning<br>
 2021 IEEE ROSE Conference, 2021. [DOI:10.1109/ROSE52750.2021.9611756](https://ieeexplore.ieee.org/document/9611756)<br>
 
 Multimodal Approach for DeepFake Detection<br>
-49th Annual IEEE AIPR 2020. Proceedings [not yet available](https://www.aipr-workshop.org/past-conference-information).
-Conference [booklet](https://www.aipr-workshop.org/images/2020/AIPR_Program_Booklet_2020.pdf)
+49th Annual IEEE AIPR 2020. Proceedings [DOI:10.1109/AIPR50011.2020.9425192](https://ieeexplore.ieee.org/document/9425192).
 
 L2RPN: Learning to Run a Power Network in a Sustainable World<br>
 NeurIPS 2020 White Paper. [ChaLearn](https://drive.google.com/file/d/1--OxWiZzaf2nlHETic2ghmozZVn5TNSM/view)
