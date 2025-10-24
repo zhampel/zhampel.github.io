@@ -22,11 +22,14 @@ The following links host my updated
 and
 [CV](/assets/pdfs/Zig_Hampel_Arias_CV.pdf).
 
-## Technical Skills
+## Professional and Technical Skills
 
 <div>
     <p>I am experienced with:</p>
     <ul>
+        <li>
+            <p>Obtaining funding for and leading multi-disciplinary, multi-year scientific projects</p>
+        </li>
         <li>
             <p>Data analysis, in particular big data, statistics, deconvolution, modeling & simulation</p>
         </li>
@@ -34,10 +37,10 @@ and
             <p>Python, C, C++ programming</p>
         </li>
         <li>
-            <p>Machine learning (PyTorch, scikit-learn, TensorFlow)</p>
+            <p>Machine learning methods (CV, GAN, AE, NeRFs, RL) and tools (PyTorch, scikit-learn, TensorFlow)</p>
         </li>
         <li>
-            <p>Scientific computing (NumPy, SciPy, pandas, PyOpenCL)</p>
+            <p>Scientific computing (NumPy, SciPy, pandas, CUDA, PyOpenCL)</p>
         </li>
         <li>
             <p>Distributed and parallel computing (AWS, SLURM, PBS, HTCondor)</p>
@@ -46,7 +49,7 @@ and
             <p>Data visualization (matplotlib, Plotly Dash, PyOpenGL)</p>
         </li>
         <li>
-            <p>Version control systems (Git, SVN)</p>
+            <p>Version control systems (git, SVN)</p>
         </li>
         <li>
             <p>Public speaking, mentoring, and leadership roles</p>
@@ -75,6 +78,9 @@ Fran&ccedil;ais (Working Proficiency),<br>
 
 
 ## Selected Articles
+"Empowering Latin American Innovation for American Security" <br>
+Special Issue from Office of Naval Research, 2025. Article link forthcoming.
+
 "DeepFake Detection Challenge Part II" <br>
 *IQT*, In-Q-Tel, 7 July, 2021, [Article link](https://www.iqt.org/deepfake-detection-challenge-pt-ii/)
 
@@ -92,6 +98,18 @@ Fran&ccedil;ais (Working Proficiency),<br>
 
 
 ## Selected Presentations
+"3D Scene Understanding Machine Learning Methods for Hyperspectral Imagery"<br>
+Invited talk to Statistics Department at Texas A&M University, 31 Oct 2025. <br>
+
+"Machine Learning for Hyperspectral Imagery Applications: Trusting Our Models"<br>
+Invited talk to Statistics Department at Rice University, 30 Oct 2025. <br>
+
+"Machine Learning & Generative Modeling: A Physicist's Perspective"<br>
+Guest lecture at Texas A&M University, 11 Nov 2024. <br>
+
+"Machine Learning for Hyperspectral Imagery Applications: Trusting Our Models"<br>
+Invited talk to Statistics Department at Utah State University, 15 Oct 2024. <br>
+
 "Approaches for Multi-modal Synthetic Media Detection" <br>
 Invited talk at Applied Imagery Pattern Recognition, 49th IEEE AIPR 2020. <br>
 [Online info](https://www.aipr-workshop.org/19-22)
@@ -114,6 +132,10 @@ Lecture & Keras Workshop at IIHE, ULB, Bruxelles, Belgium.<br>
 
 
 ## Honors and Awards
+LANL National Security and International Studies Fellowship
+
+DoE/DoS Embassy Science Fellowship
+
 BAEF and WBI Postdoctoral Fellowships
 
 NSF Graduate Research Fellowship
@@ -130,8 +152,32 @@ MMUF Undergraduate Fellowship
 
 Below is a list of the publications for which I am a major contributor.
 
+Hyperspectral neural radiance fields for 3D scene understanding of gas plumes
+SPIE Applications of Machine Learning, 2025. [SPIE Publication](https://doi.org/10.1117/12.3063962)<br>
+
+3D scene understanding of hyperspectral imagery using neural radiance fields and Gaussian splatting
+SPIE Algorithms, Technologies, and Applications for Multispectral and Hyperspectral Imaging XXXI, 2025. [SPIE Publication](https://doi.org/10.1117/12.3056585)<br>
+
+New Methods for New Space: Multi-Sensor Change Detection in Remote Sensing Imagery
+Pattern Recognition and Computer Vision in the New AI Era, pp. 161-187 (2025). [Book Chapter](https://doi.org/10.1142/9789819807154_0008)<br>
+
+2d spectral representations and autoencoders for hyperspectral imagery classification and explanability
+IEEE Southwest Symposium on Image Analysis and Interpretation (SSIAI), 2024. [IEEE Publication](https://doi.org/10.1109/SSIAI59505.2024.10508608)<br>
+
+Adaptive Radio Frequency Target Localization
+Conference Proceedings of the Society for Experimental Mechanics Series, 2024. [Springer Proceeding](https://doi.org/10.1007/978-3-031-68142-4_15)<br>
+
+Physics-guided neural networks for hyperspectral target identification
+SPIE Applications of Machine Learning, 2023. [SPIE Publication](https://doi.org/10.1117/12.2684140)<br>
+
+Hyperspectral Target Identification Using Physics-Guided Neural Networks with Explainability and Feature Attribution
+IEEE International Geoscience and Remote Sensing Symposium, 2023. [IGARSS Publication](https://doi.org/10.1109/IGARSS52108.2023.10283350)<br>
+
+Experiments in anomalous change detection: improving detector discrimination through feature layers
+SPIE Algorithms, Technologies, and Applications for Multispectral and Hyperspectral Imaging XXIX, 2023. [SPIE Publication](https://doi.org/10.1117/12.2666569)<br>
+
 Localizing Radio Frequency Targets Using Reinforcement Learning<br>
-2021 IEEE ROSE Conference, 2021. [IEEE Publication](https://ieeexplore.ieee.org/document/9611756)<br>
+IEEE ROSE Conference, 2021. [IEEE Publication](https://ieeexplore.ieee.org/document/9611756)<br>
 
 Multimodal Approach for DeepFake Detection<br>
 49th Annual IEEE AIPR 2020. [IEEE Proceeding](https://ieeexplore.ieee.org/document/9425192)
