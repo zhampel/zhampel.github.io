@@ -20,7 +20,7 @@ mathjax: true
 The following links host my updated 
 [Resume](/assets/pdfs/Zig_Hampel_Arias_Resume.pdf)
 and
-[CV](/assets/pdfs/Zig_Hampel_Arias_CV.pdf).
+[CV](/assets/pdfs/Zig_Hampel_Arias_CV.pdf). My Google Scholar [link](https://scholar.google.com/citations?user=raXn-vcAAAAJ&hl=en) shows all my technical publications.
 
 ## Professional and Technical Skills
 
@@ -79,7 +79,7 @@ Fran&ccedil;ais (Working Proficiency),<br>
 
 ## Selected Articles
 "Empowering Latin American Innovation for American Security" <br>
-Special Issue from Office of Naval Research, 2025. Article link forthcoming.
+Special Issue from Office of Naval Research, 2025. [Article link (pages 25-28)](https://drive.google.com/file/d/1aa5seoAOCP0bTFFYuDwAIJmiuJsjqOZL/view?pli=1)
 
 "DeepFake Detection Challenge Part II" <br>
 *IQT*, In-Q-Tel, 7 July, 2021, [Article link](https://www.iqt.org/deepfake-detection-challenge-pt-ii/)
