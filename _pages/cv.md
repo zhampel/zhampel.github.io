@@ -100,6 +100,7 @@ Special Issue from Office of Naval Research, 2025. [Article link (pages 25-28)](
 ## Selected Presentations
 "3D Scene Understanding Machine Learning Methods for Hyperspectral Imagery"<br>
 Invited talk to Statistics Department at Texas A&M University, 31 Oct 2025. <br>
+[Lecture](https://www.youtube.com/watch?v=MkZkRou-Jos)
 
 "Machine Learning for Hyperspectral Imagery Applications: Trusting Our Models"<br>
 Invited talk to Statistics Department at Rice University, 30 Oct 2025. <br>
